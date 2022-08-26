@@ -96,13 +96,16 @@
         - Causality
         - Noisy data
     - title: Bayesian optimization
+      items:
         - noisy objectives and robustness
         - uncertain inputs
         - probability-based constraints
     - title: Graph neural networks
+      items:
         - geometric and mesh-based data
         - causal graphs
     - title: Time-series forecasting
+      items:
         - Conformal predictions
         - Multi-quantile problems
        
