@@ -17,10 +17,10 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I started using Matlab at high-school to assist my father conduct multibody physics simulations. 
-Being the son of an academic, I wanted pursue a PhD since those days. 
-Perhaps because of this experience, or maybe his passion for designing machinery, I followed the footsteps of my father and studied mechanical engineering at RWTH Aachen, one of the best universities in Germany for this topic.
+Being the son of an academic, I have wanted to pursue a PhD since those days. 
+Perhaps because of this experience, or maybe his passion for designing machines, I followed the footsteps of my father and studied mechanical engineering at RWTH Aachen, one of the best universities in Germany for this topic.
 
-Along the way, my interest shifted from mechanical machinery to digital ones. Specifically, I wanted to optimise machinery, but the simulations were taking too long. 
+Along the way, my interest shifted from mechanical machinery to digital ones. Specifically, I wanted to optimize designs, but the simulations were taking too long. 
 To tackle this problem, I used polynomial regression to accelerate the process. However, polynomial models were often too inaccurate to achieve meaningful results. 
 That is when I first met Gaussian processes and the term machine learning for metamodeling. My mind was blown. I immediately enrolled into a PhD program to learn more about learning machines. 
 I learnt the book <a href="http://gaussianprocess.org/gpml/chapters/RW.pdf">Gaussian Processes for Machine Learning</a> (Carl Edward Rassmussen) by heart.
