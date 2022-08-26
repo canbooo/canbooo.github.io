@@ -46,10 +46,11 @@
       institution: <a href="https://probaligence.com/">Probaligence GmbH</a>
       year: Sep. 2018 - June 2022
       description:
-        - title: STOCHOS, an automated machine learning module for engineers
+        - title: <a href="https://probaligence.com/en/stochos-2/">STOCHOS</a>, an automated machine learning module for engineers
           contents:
             - "Flavors: python module, web-based GUI, ANSYS optiSlang add-in"
-        - title: Project KILU, AI research for aviation
+            - GUI based on <a href="https://plotly.com/dash/">plotly/dash</a>
+        - title: Project KILu, AI research for aviation
           contents:
             - "Partner: German Aerospace Center (DLR)"
             - "Topics: material modelling, geometric mesh analysis"
@@ -57,7 +58,11 @@
           contents:
              - "Partner: ZF Friedrichshafen AG"
              - "Task: Uncertainty-aware reinforcement learning for autonomous vehicles"
-        - title: Project iFoot, intelligent bandage for diabetic foot
+        - title: Project <a href="https://www.hs-niederrhein.de/imh/ml-real-time/">ML-Real-Time</a>, predictive maintenance for power plants
+          contents:
+             - "Partner: Siemens Gas and Power GmbH"
+             - "Task: real-time lifetime forecasting of power plant components"
+        - title: Project <a href="https://projekt-ifoot.de/en/">iFoot</a>, intelligent bandage for diabetic foot
           contents:
              - "Partner: Niederrhein University of Applied Sciences"
              - "Tasks: Smart watch app, Web servers for data pipeline and patient tracking"
