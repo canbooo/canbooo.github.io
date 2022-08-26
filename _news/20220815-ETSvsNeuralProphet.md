@@ -5,8 +5,10 @@ date: 2022-08-15 00:00:00+0200
 inline: false
 ---
 
-<a href="https://github.com/Nixtla/statsforecast/blob/main/experiments/neuralprophet/README.md">statsforecast</a> shows  exponential smoothing is faster and more accurate than the Meta algorithm <a href="https://neuralprophet.com/html/index.html>NeuralProphet</a> (in most cases).
+<a href="https://github.com/Nixtla/statsforecast/blob/main/experiments/neuralprophet/README.md">statsforecast</a> shows  exponential smoothing is faster and more accurate than the Meta algorithm <a href="https://neuralprophet.com/html/index.html>NeuralProphet</a>  in many cases.
+
 ***
+
 As stated in the quoted `ReadMe.md`
 
 > In this experiment, we test NeuralProphet's introduction as a "successor" to Facebook-Prophet and compare it with classic Exponential Smoothing (ETS). We show that it is not the case that ETS has "too restrictive assumptions and parametric nature limit their performance in real-world applications" as claimed by NeuralProphet's paper. Moreover, we show that NeuralProphet's predictions are outperformed both in accuracy and computation time by this statistical model.
