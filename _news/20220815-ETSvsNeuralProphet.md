@@ -5,7 +5,7 @@ date: 2022-08-15 00:00:00+0200
 inline: false
 ---
 
-<a href="https://github.com/Nixtla/statsforecast/blob/main/experiments/neuralprophet/README.md">statsforecast</a> shows  exponential smoothing is faster and more accurate than the Meta algorithm <a href="https://neuralprophet.com/html/index.html>NeuralProphet</a>  in many cases.
+<a href="https://github.com/Nixtla/statsforecast/blob/main/experiments/neuralprophet/README.md">statsforecast</a> shows  exponential smoothing is faster and more accurate than the Meta algorithm <a href="https://neuralprophet.com/html/index.html">NeuralProphet</a>  in many cases.
 
 ***
 
