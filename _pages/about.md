@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a scientist at heart and a pragmatic at work.
+I am a scientist at heart and a pragmatist at work.
 I am enthusiastic about machine learning research and applied probability theory.
 I researched machine learning methods for small data and how to accelerate uncertainty quantification and optimization using active learning during my PhD.
 I worked and lectured for a long time and found my passion for mentoring PhD students.
