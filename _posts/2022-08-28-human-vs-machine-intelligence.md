@@ -1,0 +1,63 @@
+---
+layout: post
+title:  On human and machine intelligence
+date: 2022-08-27 22:33:00
+description: Why some models need more human intelligence than others
+tags: machinelearning
+categories: general
+---
+### Prelude
+Since this blog is mainly about machine learning (ML), I thought it would  be appropriate to start with a general
+discussion about various kinds of ML algorithms and their relation to human intelligence.
+Don't worry, I am not a psychologist, nor a neurologist. My knowledge about actual human intelligence is quite limited.
+What I am referring to as intelligence here has a much more practical meaning. I hate titles in the form “X is all you need” too, which makes having chosen the following title even more ironic:
+
+### Human intelligence is all you need!
+
+Consider the following qualitative plot (and beware of any qualitative plots, even the correct ones are always misleading).
+
+<div class="col-8 mx-auto">
+    {% include figure.html path="assets/img/humanvsmodelintelligence.png" class="img-fluid rounded z-depth-1" %}
+</div>
+<div class="caption">
+   A qualitative plot about the required human intelligence for achieving good results with various machine learning algorithms
+</div>
+
+Notice that the term intelligence is within quotation marks, as the usage here refers to something else than what you might be used to.
+On the vertical axis, human intelligence describes the amount of "work", the human has to conduct to achieve
+good results with the corresponding methods. Although I am only considering supervised algorithms here, similar arguments can be made about other ML algorithms from various domains.
+
+For example, consider the generalized linear model (GLM) and ist special case the linear regression. One needs to extract good features, and has to have some knowledge about the distribution of the target variable as well as
+its relationship to input features, thus the model family. Although these models are ranked quite low on the horizontal model capacity axis, this does not mean they are bad models. It merely means that the number of different functions  are smaller, which are representable with a fixed size of these models.
+Actually, given sufficient human or user 'intelligence', i.e. correct assumptions, they are the best models and often achieve high and even the best ranks on kaggle competitions (see for example <a href="https://www.kaggle.com/c/covid19-global-forecasting-week-5/discussion/151461">here</a> or <a href="https://www.kaggle.com/code/jkraju/1st-place-solution/script">here</a>).
+Notice that although the models are linear, some features are polynomial or sinusoidal (i.e. Fourier), which makes these solutions non-linear, but in any case, these simple models can beat more complicated ones, given enough human input.
+
+However, these models sometimes require superhuman 'intelligence', as the perfect features or the model family may not be as clear or easy to derive.
+In this case, we can use the more 'intelligent' models, i.e. ones with a higher capacity. However, the more capacity a model has, the more data it will often need.
+The models in the second category. These models seek to reduce the required human 'intelligence', specifically the exact model family and to some extent features, by
+some smoothness or local convexity assumptions about the underlying function. These models tend to scale with data to some extent, but they suffer from having a small data set, compared to the linear models.
+
+Going up the model 'intelligence' scale, we see that the required human 'intelligence' decreases along with the assumptions
+LSTMs and CNNs assume some local dependence of the input features, whereas MLP drops this assumption and treats every feature equally.
+It is also important to note that LSTMs and CNNs contradict our assumption above, about higher capacity models requiring more data.
+This is mostly due to the assumptions they make, which work as inductive biases for the appropriate problems.
+Although they have a higher capacity compared to an MLP with the same number of parameters, we cannot make any claims about the amount of data they require.
+This strongly depends on the problem that we need. 
+
+Finally, there are transformers, which deserve their own category. Most of the current work about large language models use transformers.
+Their success influenced other domains such as vision to try them out too. However, they require quite a lot of data. This is less of a problem for the language domain, but more of a problem for other domains such as computer vision.
+Not only the amount of data, but also the amount of compute makes them quite expensive endeavors. Nonetheless, they achieve state-of-the-art results for those who can afford to use them.
+Moreover, they seem to enable a better scaling compared to the previous frameworks.
+
+### So what?
+Are the transformers the solution to all our problems? Should we abandon linear models, or kernel-based methods entirely?
+In this post, I tried to convince you otherwise. All of these models have their place and all of them are valuable.
+I hope to have shown that using the qualitative plot above. There is also an argument about the infamous "No-free-lunch" theorem,
+but most of the modern researchers seem to have (to some extent rightfully) a problem with this argument, so I tried to refrain from it.
+Nevertheless, knowing about all of these approaches and choosing the most appropriate one should yield the best results and I hope to have
+given you a rough guide from one perspective about how you can eliminate the inappropriate ones. I hope I could also motivate you to learn about the ones
+that you have been ignoring until now. Finally, please <a href="https://www.youtube.com/watch?v=TrdevFK_am4&t=1260s">listen to Yannic</a>, my favorite youtuber, talk about why the transformers are valuable but also are not the final solution
+to all our scaling problems, which also summarizes my thoughts quite well.
+
+If you find any typo or other mistake, please feel free to contact me. It would make me very happy to know that someone else is reading these. See the <a href="https://canbooo.github.io/">about page</a> for contact information.
+

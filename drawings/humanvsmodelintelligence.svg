@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="humanvsmodelintelligence.svg"
+   inkscape:export-filename="F:\Doktora\PythonSkripts\GitProjects\canbooo.github.io\assets\img\humanvsmodelintelligence.png"
+   inkscape:export-xdpi="151.91623"
+   inkscape:export-ydpi="151.91623">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4665"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#2698ba;stroke-width:1pt;stroke-opacity:1;fill:#2698ba;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4541"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4523"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4665-4"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#2698ba;fill-opacity:1;fill-rule:evenodd;stroke:#2698ba;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="107.87343"
+     inkscape:cy="961.52123"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <rect
+       style="fill:#1c1c1d;fill-opacity:1;stroke:none;stroke-width:0.51289672;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8163"
+       width="133.90202"
+       height="72.563675"
+       x="49.177593"
+       y="-5.9500117"
+       inkscape:export-filename="F:\Doktora\PythonSkripts\GitProjects\canbooo.github.io\assets\img\humanvsmodelintelligence.png"
+       inkscape:export-xdpi="151.91623"
+       inkscape:export-ydpi="151.91623" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="117.8696"
+       y="33.938747"
+       id="text6499"
+       inkscape:export-filename="F:\Doktora\PythonSkripts\GitProjects\canbooo.github.io\assets\img\humanvsmodelintelligence.png"
+       inkscape:export-xdpi="151.91623"
+       inkscape:export-ydpi="151.91623"><tspan
+         sodipodi:role="line"
+         id="tspan6497"
+         x="117.8696"
+         y="33.938747"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">MLP</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#2698ba;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="M 57.195677,59.13012 V -3.1930156"
+       id="path4518"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\Doktora\PythonSkripts\GitProjects\canbooo.github.io\assets\img\humanvsmodelintelligence.png"
+       inkscape:export-xdpi="151.91623"
+       inkscape:export-ydpi="151.91623" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#2698ba;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-0)"
+       d="M 56.943927,59.13012 H 180.23916"
+       id="path4518-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="F:\Doktora\PythonSkripts\GitProjects\canbooo.github.io\assets\img\humanvsmodelintelligence.png"
+       inkscape:export-xdpi="151.91623"
+       inkscape:export-ydpi="151.91623" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="100.46122"
+       y="64.742783"
+       id="text6019"
+       inkscape:export-filename="F:\Doktora\PythonSkripts\GitProjects\canbooo.github.io\assets\img\humanvsmodelintelligence.png"
+       inkscape:export-xdpi="151.91623"
+       inkscape:export-ydpi="151.91623"><tspan
+         sodipodi:role="line"
+         x="100.46122"
+         y="64.742783"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan6021">Model capacity</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2698ba;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-52.295914"
+       y="54.194431"
+       id="text6019-6"
+       transform="rotate(-90)"
+       inkscape:export-filename="F:\Doktora\PythonSkripts\GitProjects\canbooo.github.io\assets\img\humanvsmodelintelligence.png"
+       inkscape:export-xdpi="151.91623"
+       inkscape:export-ydpi="151.91623"><tspan
+         sodipodi:role="line"
+         x="-52.295914"
+         y="54.194431"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan6021-2">Human 'intelligence'</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+       x="61.204723"
+       y="3.0035288"
+       id="text6477"
+       inkscape:export-filename="F:\Doktora\PythonSkripts\GitProjects\canbooo.github.io\assets\img\humanvsmodelintelligence.png"
+       inkscape:export-xdpi="151.91623"
+       inkscape:export-ydpi="151.91623"><tspan
+         sodipodi:role="line"
+         x="61.204723"
+         y="3.0035288"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+         id="tspan6479">Lin. Regression, </tspan><tspan
+         sodipodi:role="line"
+         x="61.204723"
+         y="10.059084"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
+         id="tspan8369">GLM...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="102.2306"
+       y="44.163025"
+       id="text6487"
+       inkscape:export-filename="F:\Doktora\PythonSkripts\GitProjects\canbooo.github.io\assets\img\humanvsmodelintelligence.png"
+       inkscape:export-xdpi="151.91623"
+       inkscape:export-ydpi="151.91623"><tspan
+         sodipodi:role="line"
+         id="tspan6485"
+         x="102.2306"
+         y="49.312622"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2698ba;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="80.587837"
+       y="19.399599"
+       id="text6491"
+       inkscape:export-filename="F:\Doktora\PythonSkripts\GitProjects\canbooo.github.io\assets\img\humanvsmodelintelligence.png"
+       inkscape:export-xdpi="151.91623"
+       inkscape:export-ydpi="151.91623"><tspan
+         sodipodi:role="line"
+         x="80.587837"
+         y="19.399599"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan6493">Boosted Tree, SVM,</tspan><tspan
+         sodipodi:role="line"
+         x="80.587837"
+         y="24.691265"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan8422">Gaussian Process...</tspan><tspan
+         sodipodi:role="line"
+         x="80.587837"
+         y="29.982931"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan8424" /><tspan
+         sodipodi:role="line"
+         x="80.587837"
+         y="35.274597"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan6495" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="145.39462"
+       y="51.646572"
+       id="text6503"
+       inkscape:export-filename="F:\Doktora\PythonSkripts\GitProjects\canbooo.github.io\assets\img\humanvsmodelintelligence.png"
+       inkscape:export-xdpi="151.91623"
+       inkscape:export-ydpi="151.91623"><tspan
+         sodipodi:role="line"
+         id="tspan6501"
+         x="145.39462"
+         y="56.796169"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="157.689"
+       y="53.250198"
+       id="text6507"
+       inkscape:export-filename="F:\Doktora\PythonSkripts\GitProjects\canbooo.github.io\assets\img\humanvsmodelintelligence.png"
+       inkscape:export-xdpi="151.91623"
+       inkscape:export-ydpi="151.91623"><tspan
+         sodipodi:role="line"
+         id="tspan6505"
+         x="157.689"
+         y="53.250198"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">Transformer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="132.16672"
+       y="43.18623"
+       id="text6511"
+       inkscape:export-filename="F:\Doktora\PythonSkripts\GitProjects\canbooo.github.io\assets\img\humanvsmodelintelligence.png"
+       inkscape:export-xdpi="151.91623"
+       inkscape:export-ydpi="151.91623"><tspan
+         sodipodi:role="line"
+         x="132.16672"
+         y="43.18623"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan6513">LSTM, CNN...</tspan></text>
+  </g>
+</svg>
