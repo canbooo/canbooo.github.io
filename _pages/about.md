@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 I am a scientist at heart and a pragmatist at work.
 I am enthusiastic about machine learning research and applied probability theory.
 I researched machine learning methods for small data and how to accelerate uncertainty quantification and optimization using active learning during my PhD.
-I worked and lectured for a long time and found my passion for mentoring PhD students.
+I worked and lectured for a while and found my passion for mentoring PhD students.
 I have a secret crush on reinforcement learning due to some projects at my previous job, where we trained agents to solve problems, which seemed too difficult to humans.
 Recently, I finished my PhD and started a position at <a href="www.zalando.de">Zalando</a> as applied scientist to work on probabilistic delivery time estimation.
 
