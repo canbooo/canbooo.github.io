@@ -37,7 +37,7 @@ In this case, we can use the more 'intelligent' models, i.e. ones with a higher 
 The models in the second category. These models seek to reduce the required human 'intelligence', specifically the exact model family and to some extent features, by
 some smoothness or local convexity assumptions about the underlying function. These models tend to scale with data to some extent, but they suffer from having a small data set, compared to the linear models.
 
-Going up the model 'intelligence' scale, we see that the required human 'intelligence' decreases along with the assumptions. Multi layer perceptrons (MLP) drops most
+Going up the model capacity scale, we see that the required human 'intelligence' decreases along with the assumptions. Multi layer perceptrons (MLP) drops most
 of the assumptions and increase the capacity greatly compared to the previous group of methods. Nevertheless, the requirements about data as well as other difficulties in training 
 increase also greatly. To overcome some of these problems, various inductive biases are used in structures. Residual networks (ResNet) were revolutionary for their times
 and they allowed training much deeper models. The skip connections are still used in many architectures. Moreover, long-short term memory (LSTM)  and convolutional neural networks (CNN) 
