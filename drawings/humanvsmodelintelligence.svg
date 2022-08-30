@@ -87,7 +87,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="107.87343"
+     inkscape:cx="393.4151"
      inkscape:cy="961.52123"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -126,16 +126,16 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="117.8696"
-       y="33.938747"
+       x="133.36447"
+       y="40.64806"
        id="text6499"
        inkscape:export-filename="F:\Doktora\PythonSkripts\GitProjects\canbooo.github.io\assets\img\humanvsmodelintelligence.png"
        inkscape:export-xdpi="151.91623"
        inkscape:export-ydpi="151.91623"><tspan
          sodipodi:role="line"
          id="tspan6497"
-         x="117.8696"
-         y="33.938747"
+         x="133.36447"
+         y="40.64806"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">MLP</tspan></text>
   </g>
   <g
@@ -191,19 +191,19 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
        x="61.204723"
-       y="3.0035288"
+       y="3.003561"
        id="text6477"
        inkscape:export-filename="F:\Doktora\PythonSkripts\GitProjects\canbooo.github.io\assets\img\humanvsmodelintelligence.png"
        inkscape:export-xdpi="151.91623"
        inkscape:export-ydpi="151.91623"><tspan
          sodipodi:role="line"
          x="61.204723"
-         y="3.0035288"
+         y="3.003561"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
          id="tspan6479">Lin. Regression, </tspan><tspan
          sodipodi:role="line"
          x="61.204723"
-         y="10.059084"
+         y="10.059116"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1"
          id="tspan8369">GLM...</tspan></text>
     <text
@@ -223,30 +223,30 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2698ba;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="80.587837"
-       y="19.399599"
+       x="88.335274"
+       y="22.754255"
        id="text6491"
        inkscape:export-filename="F:\Doktora\PythonSkripts\GitProjects\canbooo.github.io\assets\img\humanvsmodelintelligence.png"
        inkscape:export-xdpi="151.91623"
        inkscape:export-ydpi="151.91623"><tspan
          sodipodi:role="line"
-         x="80.587837"
-         y="19.399599"
+         x="88.335274"
+         y="22.754255"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan6493">Boosted Tree, SVM,</tspan><tspan
          sodipodi:role="line"
-         x="80.587837"
-         y="24.691265"
+         x="88.335274"
+         y="28.045921"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan8422">Gaussian Process...</tspan><tspan
          sodipodi:role="line"
-         x="80.587837"
-         y="29.982931"
+         x="88.335274"
+         y="33.337589"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan8424" /><tspan
          sodipodi:role="line"
-         x="80.587837"
-         y="35.274597"
+         x="88.335274"
+         y="38.629253"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
          id="tspan6495" /></text>
     <text
@@ -277,19 +277,5 @@
          x="157.689"
          y="53.250198"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">Transformer</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.64444447px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="132.16672"
-       y="43.18623"
-       id="text6511"
-       inkscape:export-filename="F:\Doktora\PythonSkripts\GitProjects\canbooo.github.io\assets\img\humanvsmodelintelligence.png"
-       inkscape:export-xdpi="151.91623"
-       inkscape:export-ydpi="151.91623"><tspan
-         sodipodi:role="line"
-         x="132.16672"
-         y="43.18623"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333311px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan6513">LSTM, CNN...</tspan></text>
   </g>
 </svg>

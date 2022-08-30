@@ -37,16 +37,19 @@ In this case, we can use the more 'intelligent' models, i.e. ones with a higher 
 The models in the second category. These models seek to reduce the required human 'intelligence', specifically the exact model family and to some extent features, by
 some smoothness or local convexity assumptions about the underlying function. These models tend to scale with data to some extent, but they suffer from having a small data set, compared to the linear models.
 
-Going up the model 'intelligence' scale, we see that the required human 'intelligence' decreases along with the assumptions
-LSTMs and CNNs assume some local dependence of the input features, whereas MLP drops this assumption and treats every feature equally.
-It is also important to note that LSTMs and CNNs contradict our assumption above, about higher capacity models requiring more data.
-This is mostly due to the assumptions they make, which work as inductive biases for the appropriate problems.
-Although they have a higher capacity compared to an MLP with the same number of parameters, we cannot make any claims about the amount of data they require.
-This strongly depends on the problem that we need. 
+Going up the model 'intelligence' scale, we see that the required human 'intelligence' decreases along with the assumptions. Multi layer perceptrons (MLP) drops most
+of the assumptions and increase the capacity greatly compared to the previous group of methods. Nevertheless, the requirements about data as well as other difficulties in training 
+increase also greatly. To overcome some of these problems, various inductive biases are used in structures. Residual networks (ResNet) were revolutionary for their times
+and they allowed training much deeper models. The skip connections are still used in many architectures. Moreover, long-short term memory (LSTM)  and convolutional neural networks (CNN) 
+exploit the locality assumptions about their inputs; they assume that the features that are close to one another are more related to each other. This allows them to learn more meaningful representations
+compared to feed-forward architectures. Nonetheless, all of these architectures are closely related to MLPs, as all latent dimensions are combined with each others.
 
 Finally, there are transformers, which deserve their own category. Most of the current work about large language models use transformers.
-Their success influenced other domains such as vision to try them out too. However, they require quite a lot of data. This is less of a problem for the language domain, but more of a problem for other domains such as computer vision.
-Not only the amount of data, but also the amount of compute makes them quite expensive endeavors. Nonetheless, they achieve state-of-the-art results for those who can afford to use them.
+Their success influenced other domains such as vision to try them out too. They drop the inductive biases, introduced by humans through LSTMs and CNNs. Instead, they
+try to learn their own inductive biases through the attention mechanism; they neither assume every input feature to be related to every other one as in feed-forward networks,
+nor they require a locality assumption between the related and relevant inputs. Thus, they reduce the human input compared to previous methods and instead gain the intelligence in a more self-supervised way, even for supervised tasks.
+However, they require quite a lot of data. This is less of a problem for the language domain, but more of a problem for other domains such as computer vision or tabular data sets.
+Not only the amount of data, but also the amount of compute makes them quite expensive endeavors. Nonetheless, they often achieve state-of-the-art results for those who can afford to use them.
 Moreover, they seem to enable a better scaling compared to the previous frameworks.
 
 ### So what?
