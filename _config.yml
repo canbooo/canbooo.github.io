@@ -82,7 +82,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  If you like to chat about machine learning, bjj or sci-fi, let us connect!
+  If you like to chat about machine learning, sci-fi or bjj, let us connect!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -98,9 +98,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Can's backyard scraps # blog_name will be displayed in your blog page
+blog_name: TLDR; Papers # blog_name will be displayed in your blog page
 blog_nav_title:  # your blog must have a title for it to be displayed in the nav bar
-blog_description: some random thoughts about science and machine learning
+blog_description: Very short summaries of ideas from the papers I've read
 permalink: /blog/:year/:title/
 
 # Pagination
