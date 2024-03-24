@@ -69,6 +69,7 @@
   arxiv    = {2310.00110},
   doi      = {10.1016/j.cma.2023.116226},
   keywords = {Adaptive sampling, Bayesian optimization, Design of experiments, Gaussian process, ANN},
+  pdf      = {https://www.sciencedirect.com/science/article/pii/S004578252300350X},
   url      = {https://www.sciencedirect.com/science/article/pii/S004578252300350X},
 }
 
