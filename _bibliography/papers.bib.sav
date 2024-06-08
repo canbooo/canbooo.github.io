@@ -133,19 +133,24 @@ since there is no single machine learning algorithm, which outperforms others in
 }
 
 @Article{Cakir2024,
-  author  = {Cafer Tufan Cakir and Can Bogoclu and Franziska Emmerling and Christina Streli and Ana Guilherme Buzanich and Martin Radtke},
-  journal = {Machine Learning: Science and Technology},
-  title   = {Machine learning for efficient grazing-exit x-ray absorption near edge structure spectroscopy analysis: Bayesian optimization approach},
-  year    = {2024},
-  doi     = {10.1088/2632-2153/ad4253},
+  author      = {Cafer Tufan Cakir and Can Bogoclu and Franziska Emmerling and Christina Streli and Ana Guilherme Buzanich and Martin Radtke},
+  journal     = {Machine Learning: Science and Technology},
+  title       = {Machine learning for efficient grazing-exit x-ray absorption near edge structure spectroscopy analysis: Bayesian optimization approach},
+  year        = {2024},
+  bibtex_show = {true},
+  doi         = {10.1088/2632-2153/ad4253},
+  pdf         = {https://iopscience.iop.org/article/10.1088/2632-2153/ad4253},
 }
 
 @InProceedings{Laemmle2024,
-  author    = {Sven L{\"a}mmle and Can Bogoclu and Robert Vosshall and Anselm Haselhoff and Dirk Roos},
-  booktitle = {The 40th Conference on Uncertainty in Artificial Intelligence},
-  title     = {Quantifying Local Model Validity using Active Learning},
-  year      = {2024},
-  url       = {https://openreview.net/forum?id=muDcwOKf50},
+  author      = {Sven L{\"a}mmle and Can Bogoclu and Robert Vosshall and Anselm Haselhoff and Dirk Roos},
+  booktitle   = {The 40th Conference on Uncertainty in Artificial Intelligence},
+  title       = {Quantifying Local Model Validity using Active Learning},
+  year        = {2024},
+  abstract    = {Real-world applications of machine learning models are often subject to legal or policy-based regulations. Some of these regulations require ensuring the validity of the model, i.e., the approximation error being smaller than a threshold. A global metric is generally too insensitive to determine the validity of a specific prediction, whereas evaluating local validity is costly since it requires gathering additional data. We propose learning the model error to acquire a local validity estimate while reducing the amount of required data through active learning. Using model validation benchmarks, we provide empirical evidence that the proposed method can lead to an error model with sufficient discriminative properties using a relatively small amount of data. Furthermore, an increased sensitivity to local changes of the validity bounds compared to alternative approaches is demonstrated.},
+  bibtex_show = {true},
+  pdf         = {https://openreview.net/forum?id=muDcwOKf50},
+  url         = {https://openreview.net/forum?id=muDcwOKf50},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
